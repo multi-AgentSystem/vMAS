@@ -29,3 +29,9 @@ A versatile multi-agent system (vMAS) using the Scrum framework, Python, Langcha
 
 
 These steps provide a comprehensive blueprint for your vMAS, ensuring a robust, interactive, and versatile system aligned with Scrum principles.
+
+## Example workflow for the multi-agent-system:
+![PlantUML-Time-series_Multi-agent-setup](https://github.com/multi-AgentSystem/vMAS/assets/134055815/4d099aae-9efb-4cb5-83f6-f7672137956f)
+
+## Example for the themes and the specific roles with attributes
+![Rollen-Multi-agent-system](https://github.com/multi-AgentSystem/vMAS/assets/134055815/7d5a334d-9440-42bf-9c37-67d9e40326d0)
